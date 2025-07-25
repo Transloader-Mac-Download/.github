@@ -16,8 +16,8 @@ Perfect for remote link management and seamless iCloud-driven file transfers.</p
 ## 🖼️ Preview Screenshots
 
 <p align="center">
-  <img src="https://setapp.com/cdn-cgi/image/quality=75,format=auto,width=780/https://store.setapp.com/app/481/screenshots/1622537704-60b5f5e88012d.jpg" width="440"/>
-  <img src="https://eternalstorms.at/transloader/img/splash1_dark_3x.jpg" width="440"/>
+  <img src="https://setapp.com/cdn-cgi/image/quality=75,format=auto,width=780/https://store.setapp.com/app/481/screenshots/1622537704-60b5f5e88012d.jpg" width="400"/>
+  <img src="https://eternalstorms.at/transloader/img/splash1_dark_3x.jpg" width="400"/>
 </p>
 
 ---
